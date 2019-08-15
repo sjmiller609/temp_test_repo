@@ -1,3 +1,6 @@
 [submodule "dir/temp_test_sub_repo"]
 	path = dir/temp_test_sub_repo
 	url = git@github.com:sjmiller609/temp_test_sub_repo.git
+[submodule "dir/current"]
+	path = dir/current
+	url = git@github.com:sjmiller609/temp_test_sub_repo.git
